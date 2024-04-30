@@ -6,3 +6,5 @@
 <img src="https://img.shields.io/badge/Zustand-453237?style=for-the-badge&logo=Zustand&logoColor=white"><img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=black">
 
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwind css&logoColor=white"><img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
